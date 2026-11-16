@@ -20,4 +20,16 @@ https://github.com/user-attachments/assets/75721763-c544-483c-ac68-4cf9dfecf733
 
 You don't need to come back here. When there's a new version, a card pops up in the middle of RRaw Viewer. Click **Update Now** and it updates itself in a few seconds and reopens. You can also choose **RRaw Viewer ▸ Check for Updates…** any time.
 
+## Privacy
+
+RRaw Viewer collects nothing: no accounts, no analytics, no tracking. It only goes online to look for updates on this page, and that check sends nothing about you, your Mac or your photos. GitHub, which hosts this page and the downloads, sees those requests like any web visit ([GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+
+## Terms
+
+RRaw Viewer is free and provided "as is", without any warranty. To the extent the law allows, Tungl Media isn't liable for lost files or other damage from using it. Keep your memory cards, or a backup, until your photos are safely in your archive.
+
+RRaw Viewer is built only with Apple's own frameworks.
+
+Lightroom and Capture One are trademarks of their owners. RRaw Viewer is an independent app and isn't affiliated with or endorsed by them; their names are only used to say what it works with.
+
 Needs macOS 13 Ventura or newer · Apple Silicon and Intel Macs · by Tungl Media
