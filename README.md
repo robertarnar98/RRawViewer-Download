@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/75721763-c544-483c-ac68-4cf9dfecf733
 
 1. Double-click **RRawViewer.dmg**.
 2. Drag **RRaw Viewer** onto the **Applications** folder.
-3. Open it from Applications. The first time, macOS says it can't verify the app: click **Done**, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. Open it from Applications. That's it: RRaw Viewer is signed and approved by Apple, so it opens with no security warning.
 
 ## Updates
 
