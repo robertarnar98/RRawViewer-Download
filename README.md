@@ -10,6 +10,11 @@ https://github.com/user-attachments/assets/75721763-c544-483c-ac68-4cf9dfecf733
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/RRawViewer-Download/releases/latest)**: click **RRawViewer.dmg** under *Assets*.
 
+## New in 1.50
+
+- **Photos fill the window**, and the whole screen in full screen (**F**), also small exports.
+- Zooming out stops when the photo fits, also with a trackpad pinch.
+
 ## New in 1.49
 
 - **Colour your folders.** Click a folder once and press **1–7** (red, orange, yellow, green, blue, purple, gray). The folder turns that colour, and Finder sees the same colour tag. Another number changes the colour, the same number takes it off, and **⌘Z** undoes.
