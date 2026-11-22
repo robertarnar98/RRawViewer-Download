@@ -1,6 +1,6 @@
 # RRaw Viewer
 
-A fast RAW photo viewer and culler for Mac. Opens RAW files from almost every camera instantly, lets you sort with colour tags (which Lightroom and Capture One read as star ratings), import from SD cards and cameras, compare two photos side by side, and move, copy and rename photos safely. Your photos are never overwritten and nothing is deleted without going to the Trash first.
+A fast RAW photo viewer and culler for Mac. Opens RAW files from almost every camera instantly, lets you sort with colour tags (which Lightroom and Capture One read as star ratings) and colour your folders, import from SD cards and cameras, compare two photos side by side, and move, copy and rename photos safely. Your photos are never overwritten and nothing is deleted without going to the Trash first.
 
 ## Watch the 1-minute tour
 
@@ -9,6 +9,11 @@ https://github.com/user-attachments/assets/75721763-c544-483c-ac68-4cf9dfecf733
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/RRawViewer-Download/releases/latest)**: click **RRawViewer.dmg** under *Assets*.
+
+## New in 1.49
+
+- **Colour your folders.** Click a folder once and press **1–7** (red, orange, yellow, green, blue, purple, gray). The folder turns that colour, and Finder sees the same colour tag. Another number changes the colour, the same number takes it off, and **⌘Z** undoes.
+- **⌘F** goes straight to the search box again, in every view.
 
 ## Install (one time)
 
